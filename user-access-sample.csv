@@ -1,0 +1,7 @@
+user,employment_status,termination_date,account_status,mfa_status,admin_access,notes
+John Smith,Active,,Enabled,Enabled,No,
+Maria Lopez,Terminated,2026-10-15,Enabled,Enabled,No,Enabled on 2026-11-20 export
+David Chen,Active,,Enabled,Disabled,Yes,Accounting; admin assigned 2026-08-10; no approval record provided
+Sarah Johnson,Active,,Enabled,Enabled,Yes,IT Administrator; management approval documented; approver role not confirmed
+Michael Brown,Terminated,2026-11-18,Disabled,Enabled,No,Terminated 16:00 on 2026-11-18; disabled 09:00 on 2026-11-19
+Emily Davis,Active,,Enabled,Enabled,No,

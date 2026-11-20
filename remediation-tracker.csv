@@ -1,0 +1,7 @@
+finding_id,action,proposed_owner,proposed_due,priority,status,closure_evidence
+F-01,Disable former employee account and revoke active sessions,IT Operations Manager,Immediate,High,Proposed,Disablement log
+F-01,Investigate activity and reconcile all terminated employees,IT Operations Manager,Within 30 days,High,Proposed,Logs and roster reconciliation
+F-02,Validate and enforce MFA for David Chen,IAM Team,Immediate,High,Proposed,MFA policy and test
+F-03,Verify admin approval and role justification; restrict if unjustified,IT Security Manager,Immediate review,High provisional,Proposed,Approval and entitlement records
+F-04,Obtain missing reviews or perform overdue recertification,IAM Manager,Within 15 days,Medium contextual,Proposed,Signed reviews and remediation log
+F-04,Implement recurring documented access reviews,System Owners,Every 90 days,Medium contextual,Proposed,Calendar and certifications

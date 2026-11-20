@@ -1,0 +1,11 @@
+id,evidence,source,status,linked_finding,limitation
+E-01,BFS-SEC-001 access control policy,Fictional provided policy,Provided,F-01;F-02;F-03;F-04,Policy authenticity not independently validated
+E-02,User access export dated 2026-11-20,Fictional IAM export,Provided,F-01;F-02;F-03,Population completeness and system scope unknown
+E-03,Last documented review on 2026-05-15,Fictional IT statement,Provided,F-04,Confirm whether later reviews exist
+E-04,David admin rights assigned 2026-08-10 without located approval,Fictional IT statement,Provided,F-03,Other approval repositories not reviewed
+E-05,Michael termination and disablement timestamps,Fictional IT statement,Provided,Observation,Source audit logs not examined
+E-06,HR authoritative termination roster,Requested,Pending,F-01,Needed for full offboarding test
+E-07,Identity provider audit and sign-in logs,Requested,Pending,F-01;F-02,Needed for activity and enforcement validation
+E-08,Admin approval tickets and job-role matrix,Requested,Pending,F-03,Needed to verify actual authorization
+E-09,Subsequent access review reports and sign-offs,Requested,Pending,F-04,Needed to confirm review gap
+E-10,In-scope application inventory and account population,Requested,Pending,All,Needed to assess completeness
